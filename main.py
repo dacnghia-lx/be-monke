@@ -1,7 +1,6 @@
 import cv2
 import mediapipe as mp
 import math
-import numpy as np
 
 
 # --- 1. Khởi tạo MediaPipe và các đối tượng cần thiết ---
