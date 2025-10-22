@@ -13,6 +13,7 @@ pip install opencv-python mediapipe
 
 ## Demo
 ![monke](https://res.cloudinary.com/dleifiagc/image/upload/v1761109503/pjysi7ueixa7vkq2mgvj.gif)
+
 Mọi người có thể tải file .exe ở phần release nếu không muốn phải cài những thứ trên
 
 
