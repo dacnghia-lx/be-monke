@@ -12,6 +12,8 @@ pip install opencv-python mediapipe
 ```
 
 ## Demo
+- 2 thao tác chính: Chỉ ngón tay trỏ lên trời và đặt ngón tay trỏ lên khoé miệng.
+
 ![monke](https://res.cloudinary.com/dleifiagc/image/upload/v1761109503/pjysi7ueixa7vkq2mgvj.gif)
 
 Mọi người có thể tải file .exe ở phần release nếu không muốn phải cài những thứ trên
